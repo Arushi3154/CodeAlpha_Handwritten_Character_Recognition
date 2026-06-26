@@ -1,5 +1,4 @@
-# CodeAlpha_Handwritten_Character_Recognition
-```markdown
+
 # Handwritten Character Recognition (Neural Network)
 
 ## 📌 Project Overview
